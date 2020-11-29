@@ -1,0 +1,16 @@
+C:\Users\Alisa\source\repos\Lists\dods\bin\Debug\netcoreapp3.1\dogs.exe
+C:\Users\Alisa\source\repos\Lists\dods\bin\Debug\netcoreapp3.1\dogs.deps.json
+C:\Users\Alisa\source\repos\Lists\dods\bin\Debug\netcoreapp3.1\dogs.runtimeconfig.json
+C:\Users\Alisa\source\repos\Lists\dods\bin\Debug\netcoreapp3.1\dogs.runtimeconfig.dev.json
+C:\Users\Alisa\source\repos\Lists\dods\bin\Debug\netcoreapp3.1\dogs.dll
+C:\Users\Alisa\source\repos\Lists\dods\bin\Debug\netcoreapp3.1\dogs.pdb
+C:\Users\Alisa\source\repos\Lists\dods\bin\Debug\netcoreapp3.1\Lists.dll
+C:\Users\Alisa\source\repos\Lists\dods\bin\Debug\netcoreapp3.1\Lists.pdb
+C:\Users\Alisa\source\repos\Lists\dods\obj\Debug\netcoreapp3.1\dogs.csprojAssemblyReference.cache
+C:\Users\Alisa\source\repos\Lists\dods\obj\Debug\netcoreapp3.1\dogs.AssemblyInfoInputs.cache
+C:\Users\Alisa\source\repos\Lists\dods\obj\Debug\netcoreapp3.1\dogs.AssemblyInfo.cs
+C:\Users\Alisa\source\repos\Lists\dods\obj\Debug\netcoreapp3.1\dogs.csproj.CoreCompileInputs.cache
+C:\Users\Alisa\source\repos\Lists\dods\obj\Debug\netcoreapp3.1\dogs.csproj.CopyComplete
+C:\Users\Alisa\source\repos\Lists\dods\obj\Debug\netcoreapp3.1\dogs.dll
+C:\Users\Alisa\source\repos\Lists\dods\obj\Debug\netcoreapp3.1\dogs.pdb
+C:\Users\Alisa\source\repos\Lists\dods\obj\Debug\netcoreapp3.1\dogs.genruntimeconfig.cache

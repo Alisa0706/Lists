@@ -1,0 +1,9 @@
+C:\Users\Alisa\source\repos\Lists\Lists\bin\Debug\netcoreapp3.1\Lists.deps.json
+C:\Users\Alisa\source\repos\Lists\Lists\bin\Debug\netcoreapp3.1\Lists.dll
+C:\Users\Alisa\source\repos\Lists\Lists\bin\Debug\netcoreapp3.1\Lists.pdb
+C:\Users\Alisa\source\repos\Lists\Lists\obj\Debug\netcoreapp3.1\Lists.AssemblyInfoInputs.cache
+C:\Users\Alisa\source\repos\Lists\Lists\obj\Debug\netcoreapp3.1\Lists.AssemblyInfo.cs
+C:\Users\Alisa\source\repos\Lists\Lists\obj\Debug\netcoreapp3.1\Lists.csproj.CoreCompileInputs.cache
+C:\Users\Alisa\source\repos\Lists\Lists\obj\Debug\netcoreapp3.1\Lists.dll
+C:\Users\Alisa\source\repos\Lists\Lists\obj\Debug\netcoreapp3.1\Lists.pdb
+C:\Users\Alisa\source\repos\Lists\Lists\obj\Debug\netcoreapp3.1\Lists.csprojAssemblyReference.cache
